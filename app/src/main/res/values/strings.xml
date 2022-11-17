@@ -1,0 +1,13 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Ocado</string>
+    <string name="list_title">Product List</string>
+    <string name="detail_title">Product Detail</string>
+    <string name="error_network">Ups… something was wrong…</string>
+    <string name="retrieve_data">Try again</string>
+
+    <!-- Content description -->
+    <string name="picture_description">Picture</string>
+    <string name="allergy_description">Allergies</string>
+    <string name="error_description">Error data</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="big_padding_parent">16dp</dimen>
+    <dimen name="small_padding_parent">8dp</dimen>
+    <dimen name="picture_elevation">4dp</dimen>
+    <dimen name="picture_border">2dp</dimen>
+    <dimen name="picture_list_size">100dp</dimen>
+    <dimen name="picture_detail_size">200dp</dimen>
+    <dimen name="progress_size">50dp</dimen>
+    <dimen name="error_size">200dp</dimen>
+</resources>

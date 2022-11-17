@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild
+.cxx
+local.properties
+/app/build/
+/domain/build/
+/data/build/
+/datasource/build/
+/remote/build/
+/commons/build/
+# Project exclude paths
+/network/build/
+/network/build/intermediates/javac/debug/classes/
